@@ -17,6 +17,10 @@
   A production-grade educational platform built for JEE Advanced aspirants. ConceptX replaces static solutions and robotic chatbot wrappers with <strong>interactive analytical physics simulations</strong>, <strong>rigorous mathematical models</strong>, <strong>official JEE partial-marking evaluation</strong>, and an <strong>adaptive AI Tutor</strong> grounded in first principles.
 </p>
 
+<p align="center">
+  <a href="https://jeeadvanced.zybytee.in/"><strong>Visit the live website</strong></a>
+</p>
+
 </div>
 
 ---
